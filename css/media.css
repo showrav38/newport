@@ -1,0 +1,919 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+/* headedr start */
+  ul li a{
+    font-size: 15px;
+    font-weight: 500;
+
+}
+    .text_right{
+        text-align: right;
+    }
+  .menu  ul li a{
+    font-size: 14px;
+    padding: 0;
+    border-bottom: none;
+    margin-top: 5px;
+    border-bottom: none;
+}
+    /* header end */
+    /* slider start */
+    .slider-content {
+    margin: 60px 0;
+}
+.slider-content h3 {
+    font-size: 14px;
+    font-weight: 400;
+}
+.slider-content h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+}
+.mouse-icon {
+    width: 60px;
+    height: 60px;
+    margin: -30px 0 0 42%;
+}
+.btn-custom{
+        padding: 15px 30px;
+        margin-top: 20px ;
+}
+.carousel-control-prev, .carousel-control-next{
+    display: none; 
+}
+/* common title start */
+.dot:after {
+    width: 60px;
+    margin-top: -35px;
+    margin-left: 15px;
+}
+.dot:before{
+    width: 60px;
+    margin-top: -35px;
+    margin-left: -76px;
+}
+/* common title end */
+ /* 2nd part start */
+
+    .sleek {
+    padding: 60px 0;
+}
+    /* 2nd part end */
+/* history start */
+.histroy {
+    padding: 60px 0;
+}
+.img-custom{
+    width: 100%;
+    height: auto;
+   }
+   .histroy-content .common-title {
+    font-size: 30px;
+    padding: 0 15px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+ .btn-custom2{
+    padding-left: 15px;
+    padding-right: 15px; 
+ }
+/* histroy end */
+/* service start */
+.service-content {
+    margin-top: 20px;
+
+}
+.common-title-custom {
+    padding-right: 15px;
+    font-size: 28px;
+    display: inline;
+    margin-left: 20%;
+}
+.carousel-indicators-custom {
+    position: absolute;
+    top: auto;
+    bottom: 0;
+    margin: 23% 0 -35px 35%;
+    height: 20px;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+.services{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("../images/serviceback.jpg");
+    text-align:  center;
+    padding: 80px 0;
+
+}
+.img-design {
+    margin-left: 0;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.service-content p {
+    width: 80%;
+    display: inline-block;
+}
+ /* service end */
+
+ /* service end */
+
+  /* common title */
+.common-title h1 {
+    font-size: 21px;
+}
+.service-content p {
+    width: 80%;
+}
+/* 3rd section */
+
+/* couter start */
+.counter-circle{
+    width: 90px;
+    height: 90px;
+}
+.counter-circle i{
+    font-size: 28px;
+    margin-top: 35px;
+}
+.detalies{
+    margin: 18px 0;
+}
+.counter .num{
+    font-size: 25px;
+}
+.counter .name{
+    font-size: 16px;
+}
+/* counter end */
+/* pricing start */
+.cardheader {
+    height: 150px;
+}
+
+.cardheader p{
+    font-size: 22px;
+    padding: 20px;
+}
+.card.hovercard .avatar {
+    width: 120px;
+    height: 120px;
+}
+.dollar {
+    font-size: 35px;
+}
+
+/* pricing end */
+
+
+/* case study */
+.case {
+    padding: 70px 0;
+}
+.case-sm{
+    height: 435px;
+}
+.case-box {
+    padding: 0px;
+    width: 100%;
+
+}
+.carousel-indicators-case li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    margin-right: -35px;
+}
+.btn-custom-read{
+    margin-top: 0;
+    padding: 10px 15px;
+}
+.case-sleek-content {
+    padding: 0px 0 30px 0;
+}
+.carousel-indicators-case {
+    bottom: 5px;
+}
+
+/* case study end */
+
+
+/* couter end */
+.dots:before {
+    width: 50px;
+    margin-top: -137px;
+    margin-left: -60px;
+}
+.dots:after {
+    width: 50px;
+    margin-top: -137px;
+    margin-left: 9px;
+
+}
+.dots2:before{
+    margin-top: 62px;
+    width: 60px;
+    margin-left: -80px;
+}
+.dots2:after{
+    margin-top: 62px;
+    width: 60px;
+}
+/* our blog start */
+.our-blog {
+    padding: 50px 0;
+}
+.blog-content h3{
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.triangle-left{
+    display: none;
+}
+.hr{
+    display: none;
+}
+/* our blog end */
+ /* contact start */
+.contact-info {
+    padding: 10px 0;
+    text-align: center;
+}
+.contact-info h3 {
+    font-size: 20px;
+    margin: 0 0;
+}
+.contact-info p {
+    font-size: 16px;
+}
+.contact-form {
+    padding: 40px 50px;
+    margin-top: 20px;
+}
+
+.btn-custom-blog {
+    margin-left: 0 !important;
+    padding: 10px 10px !important;
+}
+ /* contact end */
+/* foooter start */
+.footer{
+    text-align: center;
+}
+.social li a i {
+    font-size: 18px;
+}
+.footer p {
+    margin-left: 0;
+
+}
+.scrollspy-up {
+   display: none;
+}
+
+/* foooter end */
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+   /* headedr start */
+    .text_right{
+        text-align: center;
+    }
+    ul li a:hover{
+    border-bottom: none;
+}
+.slider-content{
+    margin: 115px 0;
+}
+.btn-custom{
+        padding: 12px 25px;
+}
+
+.slider-content h1{
+    font-size: 35px;
+
+}
+.slider-content h3{
+    font-size: 18px;
+
+}
+.carousel-control-prev, .carousel-control-next{
+    display: none;
+}
+
+
+    /* header end */
+
+    /* 2nd part start */
+
+    .sleek {
+    padding: 60px 0;
+}
+    /* 2nd part end */
+/* history start */
+.histroy {
+    padding: 70px 0;
+}
+  .histroy-content h3{
+            margin-top: 30px;
+    }
+    .histroy-content .common-title {
+    font-size: 30px;
+    padding: 0 15px;
+    margin-bottom: 0px;
+}
+/* histroy end */
+/* common title start */
+.dot:after {
+    margin-top: -5px;
+}
+.dot:before{
+    margin-top: -5px;
+}
+/* common title end */
+
+ /* service start */
+ .service-content {
+    margin-top: 20px;
+
+}
+.common-title-custom {
+    padding-right: 15px;
+    font-size: 28px;
+    display: inline;
+    margin-left: 30%;
+}
+.carousel-indicators-custom {
+    margin: 23% 0 0 0;
+}
+.services{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("../images/serviceback.jpg");
+    text-align:  center;
+}
+.img-design {
+    margin-left: 36%;
+    margin-top: 19px;
+}
+.service-content p {
+    width: 80%;
+    display: inline-block;
+}
+ /* service end */
+
+  /* 3rd secction */
+ /* comon title */
+    .common-title h1 {
+    font-size: 24px;
+}
+
+ /* common title */
+
+/* 3rd section */
+
+
+/* couter start */
+.counter-circle{
+    width: 90px;
+    height: 90px;
+}
+.counter-circle i{
+    font-size: 28px;
+    margin-top: 35px;
+}
+.detalies{
+    margin: 18px 0;
+}
+.counter .num{
+    font-size: 25px;
+}
+.counter .name{
+    font-size: 16px;
+}
+
+
+
+/* couter end */
+/* pricing start */
+.cardheader {
+    height: 150px;
+}
+
+.cardheader p{
+    font-size: 22px;
+}
+.card.hovercard .avatar {
+    width: 120px;
+    height: 120px;
+}
+.dollar {
+    font-size: 35px;
+}
+
+/* pricing end */
+/* great start */
+.great {
+    padding: 70px 0;
+    background-color: #f4f5f9;
+}
+
+
+
+/* grerat end */
+
+
+
+
+/* dot content */
+.dots:before{
+    margin-top: -45px;
+}
+.dots:after{
+    margin-top: -45px;
+}
+.dots2:before{
+    margin-top: 55px;
+    width: 60px;
+    margin-left: -80px;
+}
+.dots2:after{
+    margin-top: 55px;
+    width: 60px;
+}
+    /* dot content */
+/* our blog start */
+.our-blog {
+    padding: 70px 0;
+}
+.blog-content{
+        padding: 0px 10px;
+}
+.blog-background {
+    padding: 0px;
+    width: 360px;
+    height: auto;
+}
+.blog-content h3{
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.blog-content h3{
+    margin-bottom: 0px !important;
+
+}
+
+.hr{
+
+    display: none;
+}
+.imgfluid-height{
+    height: 291px;
+}
+
+ /* our blog end */
+ /* case study */
+.case {
+    padding: 70px 0;
+}
+.case-sm{
+    height: 435px;
+}
+.case-box {
+    padding: 0px;
+
+}
+.carousel-indicators-case li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    margin-right: -35px;
+}
+.btn-custom-read{
+    margin-top: 0;
+    padding: 10px 15px;
+}
+.case-sleek-content {
+    padding: 0px 0 30px 0;
+}
+.carousel-indicators-case {
+    bottom: 5px;
+}
+
+/* case study end */
+ /* contact start */
+.contact-info {
+    padding: 10px 0;
+    text-align: center;
+}
+.contact-info h3 {
+    font-size: 20px;
+    margin: 0 0;
+}
+.contact-info p {
+    font-size: 16px;
+}
+.contact-form {
+    padding: 40px 50px;
+    margin-top: 20px;
+}
+
+.btn-custom-blog {
+    margin-left: 0 !important;
+    padding: 15px 15px !important;
+}
+ /* contact end */
+ /* foooter start */
+.social li a i {
+    font-size: 20px;
+}
+.footer p {
+    margin-left: 5%;
+
+}
+.scrollspy-up {
+    width: 50px;
+    height: 50px;
+    margin: -45px 0 0 90%;
+}
+.scrollspy-up i {
+    margin: 10px auto;
+}
+
+/* foooter end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* headedr start */
+    .text_right{
+        text-align: center;
+    }
+    ul li a:hover{
+    border-bottom: none;
+}
+.slider-content{
+    margin: 125px 0;
+}
+.btn-custom{
+        padding: 15px 30px;
+}
+
+.slider-content h1{
+    font-size: 55px;
+
+}
+.slider-content h3{
+    font-size: 22px;
+
+}
+    /* header end */
+
+
+    /* ?histroy start */
+   .img-custom{
+    width: 100%;
+    height: auto;
+   }
+    .histroy-content h3{
+            margin-top: 45px;
+    }
+
+    /* histroy end */
+ /* service start */
+ .service{
+    padding: 80px 0;
+ }
+ .service-content {
+    margin-top: 20px;
+}
+.common-title-custom {
+    padding-right: 15px;
+    font-size: 28px;
+    margin-bottom: 0;
+    margin-left: 20%;
+}
+.carousel-indicators-custom {
+    margin: 18% 0 0 0;
+
+}
+
+ /* service end */
+
+ /* comon title */
+    .common-title h1 {
+    font-size: 24px;
+}
+
+ /* common title */
+/* 3rd section */
+.img-design {
+    position: absolute;
+    margin-left: 42px;
+    margin-top: 20px;
+}
+/* 3rd section */
+/* case study */
+.case {
+    padding: 70px 0;
+}
+.case-box {
+    padding: 0px;
+
+}
+.carousel-indicators-case li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    margin-right: -35px;
+}
+.btn-custom-read{
+    margin-top: 0;
+    padding: 10px 15px;
+}
+.case-sleek-content {
+    padding: 0px 0 30px 0;
+}
+.carousel-indicators-case {
+    bottom: 5px;
+}
+
+/* case study end */
+
+
+/* couter start */
+.counter-circle{
+    width: 90px;
+    height: 90px;
+}
+.counter-circle i{
+    font-size: 28px;
+    margin-top: 35px;
+}
+.detalies{
+    margin: 18px 0;
+}
+.counter .num{
+    font-size: 25px;
+}
+.counter .name{
+    font-size: 16px;
+}
+
+/* couter end */
+/* pricing start */
+.cardheader {
+    height: 150px;
+}
+
+.cardheader p{
+    font-size: 22px;
+}
+.card.hovercard .avatar {
+    width: 120px;
+    height: 120px;
+}
+.dollar {
+    font-size: 35px;
+}
+
+/* pricing end */
+/* great start */
+.great {
+    padding: 70px 0;
+}
+
+
+
+/* great end */
+
+
+
+/* dot content */
+        .dots:before{
+    margin-top: -35px;
+}
+.dots:after{
+    margin-top: -35px;
+}
+.dots2:before{
+    margin-top: 44px;
+}
+.dots2:after{
+    margin-top: 44px;
+}
+    /* dot content */
+/* our blog */
+.our-blog {
+    padding: 90px 0;
+}
+
+.blog-background {
+    height: 385px;
+}
+.blog-content {
+    padding: 25px 36px;
+}
+
+
+/* our blog */
+
+/* contact start */
+.contact-form {
+    padding: 40px 50px;
+}
+.contact-info {
+    padding: 37px 40px;
+}
+
+/* contact end */
+/* foooter start */
+.social li a i {
+    font-size: 20px;
+}
+.footer p {
+    margin-left: 30%;
+
+}
+.scrollspy-up {
+    width: 50px;
+    height: 50px;
+    margin: -45px 0 0 90%;
+}
+.scrollspy-up i {
+    margin: 10px auto;
+}
+
+/* foooter end */
+	}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+     ul li{
+    padding: 0px;
+ }
+  ul li a{
+    font-size: 16px;
+    font-weight: 500;
+
+}
+/* histroy srtat */
+ .img-custom{
+    height: 450px;
+ }
+
+/* hsitroy end */
+
+/* service start */
+.common-title-custom {
+    padding-right: 15px;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+/* service end */
+/* case study start */
+.case{
+    padding: 100px 0;
+    background-color: #f4f5f9;
+}
+.case-box {
+    padding: 60px 70px;
+}
+.case-m{
+    margin-top: 30px;
+}
+.case-img {
+    position: absolute;
+    top: 2%;
+    left: 50%;
+    width: 50%;
+}
+
+.case-sleek-content{
+    padding: 0px 0 30px 0;
+}
+.carousel-indicators-case {
+    bottom: -30px;
+    justify-content: center;
+    margin: 0 0 0 -50px;
+}
+.carousel-indicators-case li{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    margin-right: -50px;
+}
+/* case study end */
+
+
+/* counter start */
+.counter .name{
+    font-size: 16px;
+}
+/* counter end */
+
+/* dot content */
+        .dots:before{
+    margin-top: -15px;
+}
+.dots:after{
+    margin-top: -15px;
+}
+.dots2:before{
+    margin-top: 47px;
+}
+.dots2:after{
+    margin-top: 47px;
+}
+
+    /* dot content */
+
+
+/* our blog start */
+.imgfluid-height{
+    height: 338px;
+}
+.blog-content{
+    padding: 0 10px;
+}
+.blog-content p{
+    margin-bottom: 0px !important;
+}
+
+
+
+/* our blog end */
+/* contact start */
+.contact-form {
+    padding: 50px 90px 30px 90px;
+}
+.contact-info {
+    padding: 50px 50px;
+}
+
+/* contact end */
+/* footer start */
+.footer p {
+    margin-left: 43%;
+}
+.scrollspy-up {
+    margin: -56px 0 0 90%;
+
+}
+
+
+
+/* footer end */
+
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+    /* dot content */
+        .dots:before{
+    margin-top: -15px;
+}
+.dots:after{
+    margin-top: -15px;
+}
+.dots2:before{
+    margin-top: 47px;
+}
+.dots2:after{
+    margin-top: 47px;
+}
+    
+/* dot content */
+/* case study */
+.case-box {
+    margin-top: 85px;
+}
+/* case study */
+/* our blog start */
+.blog-background {
+    padding: 10px;
+    width: 360px;
+    height: 338px;
+    background-color: #e74e3e;
+}
+/* our blog end */
+
+
+
+}
